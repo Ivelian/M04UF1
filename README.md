@@ -36,7 +36,7 @@ Un enlace a la mejor web del mundo:
 [CondorChem](https://conderchem.com)
 Y [ESTO](https://enti.cat) es otro enlace.
 ### Imagen incrustada
-![Imagen incrustada](https://pm1.narvii.com/6826/133204a8158cd924c60e39e50abd5dc0b0b24173v2_hq.jpg)
+![Imagen incrustada](Hola q ase)
 
 ```kotlin
 fun main (args: Array<String>) {

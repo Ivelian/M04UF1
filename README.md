@@ -9,4 +9,4 @@ Aqui iran los apuntes de **XML**
 * tres
 
 ## DTD
-Aqui iran los apuntes de **DTD**
+Aqui iran los _apuntes_ de **DTD**

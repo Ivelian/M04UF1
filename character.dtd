@@ -1,19 +1,19 @@
-<!ELEMENT character (name, surname?, age, race, class, 
-gender, height, weight, language, TieneLaESO?, weapons?)>
+<!ELEMENT character (name, surname, age, Race,
+class, gender, height, weight, language,
+TieneLaESO?, weapons?)>
 
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT surname (#PCDATA)>
-<!ELEMENT age EMPTY>
-<!ELEMENT race (#PCDATA)>
+<!ELEMENT age EMPTY)>
+<!ELEMENT Race (#PCDATA)>
 <!ELEMENT class (#PCDATA)>
 <!ELEMENT gender (#PCDATA)>
 <!ELEMENT height EMPTY>
 <!ELEMENT weight EMPTY>
 <!ELEMENT language (#PCDATA)>
 <!ELEMENT TieneLaESO EMPTY>
-<!ELEMENT weapons (weapon+)>
+<!ELEMENT weapons (weapon*)>
 <!ELEMENT weapon EMPTY>
-
 
 <!ATTLIST character id_character CDATA #REQUIRED>
 <!ATTLIST age years CDATA #REQUIRED>

@@ -4,9 +4,9 @@ Cyberseguridad: Lenguaje de marcas
 ## XML
 Aqui iran los apuntes de XML
 
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
 
 ## DTD
 Aqui iran los apuntes de DTD

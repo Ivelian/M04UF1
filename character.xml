@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE character SYSTEM "character.dtd">
 <character>
-        <name>Eustaqui</name>
+        <name>Eustaquio</name>
         <surname>Mendoza</surname>
         <!-- COMENTARIO -->
         <age>longevity="197"</age>

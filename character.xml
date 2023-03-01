@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE character SYSTEM "character.dtd">
+<character>
+        <name>Eustaqui</name>
+        <surname>Mendoza</surname>
+        <!-- COMENTARIO -->
+        <age>longevity="197"</age>
+        <race>Enano</race>
+        <class>Artificiero</class>
+        <gender abbrev="N">Non-Binary</gender>
+        <TieneLaESO latiene="sí" />
+</character>

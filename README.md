@@ -10,3 +10,8 @@ Aqui iran los apuntes de **XML**
 
 ## DTD
 Aqui iran los _apuntes_ de **DTD**
+
+>Un gran poder conlleva
+>Una gran responsabilidad
+>
+> -Counfuncio 2024

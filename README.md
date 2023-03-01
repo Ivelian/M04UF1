@@ -18,3 +18,8 @@ Aqui iran los _apuntes_ de **DTD**
 >Una gran responsabilidad
 >
 >> -Counfuncio 2024
+
+Esto es un enlace a la mejor web del mundo
+[condorChem] (http://condorchem.com)
+
+y [ESTO] (http://enti.cat) es otro enlace

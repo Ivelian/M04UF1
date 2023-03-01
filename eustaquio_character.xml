@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE character SYSTEM "character.dtd">
-<character>
+<character id_character="1">
         <name>Eustaquio</name>
         <surname>Mendoza</surname>
         <!-- COMENTARIO -->
-        <age> years="197"</age>
+        <age years="197" />
         <race>Enano</race>
         <class>Artificiero</class>
         <gender abbrev="N">Non-Binary</gender>
         <height cm="130" />
         <weight kg="80" />
-        <language abberv="prt">Portugués</language>
+        <language abbrev="prt">Portugués</language>
         <TieneLaESO />
         <weapons> 
             <weapon id_weapon="1" />

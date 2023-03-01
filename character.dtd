@@ -1,0 +1,19 @@
+<!ELEMENT character (name, surname?, age, race, class, gender, height, weight, TieneLaESO?)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT age EMPTY>
+<!ELEMENT race (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT height EMPTY>
+<!ELEMENT weight EMPTY>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT TieneLaESO EMPTY>
+
+
+<!ATTLIST character id_character CDATA #REQUIRED>
+<!ATTLIST age years CDATA #REQUIRED>
+<!ATTLIST gender abbrev CDATA #REQUIRED>
+<!ATTLIST height cm CDATA #REQUIRED>
+<!ATTLIST weight kg CDATA #REQUIRED>
+<!ATTLIST languagee abbrev CDATA #REQUIRED>
